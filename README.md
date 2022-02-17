@@ -1,2 +1,2 @@
 # Curriculum_Digital
- Este Repositório é do meu Curriculum Digital atualizado
+ Neste repo contem o meu curriculum digital 
