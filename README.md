@@ -1,2 +1,2 @@
 # Curriculum_Digital
- Este Repositório é do meu Curriculum Digital atualizado
+ Este Repositório consta o meu Curriculum Digital atualizado
